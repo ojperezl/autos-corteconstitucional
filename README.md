@@ -1,4 +1,4 @@
-# autos-corteconstitucional
+# Autos Corte Constitucional
 
 ## Contexto
 La Corte Constitucional publica una serie de sentencias judiciales respecto a determinados procesos judiciales. Dichas sentencias sirven de base para futuros procesos, por lo cual son muy relevante para los abogados. Son referentes para establecer los antecedentes de casos similares.
