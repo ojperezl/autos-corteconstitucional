@@ -12,7 +12,7 @@ El siguiente modelo que sigue en desarrollo, consiste en tomar los archivos PDF 
 ## Estructura del proyecto
 
 ### 1. Scrapping
-Obtener de la url "https://www.corteconstitucional.gov.co/secretaria/autoss/" las sentencias emitidas por la Corte Constitucional.
+Obtener de la url https://www.corteconstitucional.gov.co/secretaria/autoss/ las sentencias emitidas por la Corte Constitucional.
 
 ### 2. Extracción
 Extraer el texto de los documentos por bloques de oraciones y consolidar en un único corpus.
